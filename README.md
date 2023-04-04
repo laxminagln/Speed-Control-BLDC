@@ -1,5 +1,5 @@
 # Speed-Control-BLDC
-## Design of PI controllers using Ziegler-Nichols method, Genetic Algorithm and ANN, and comparison of their performances
+### Design of PI controllers using Ziegler-Nichols method, Genetic Algorithm and ANN, and comparison of their performances
 
 Electric Vehicles(EV) have started capturing significance since people noticed the
 after effects of depletion of natural resources, atmospheric pollution and fuel price
